@@ -1,4 +1,4 @@
-#include "chifr.h"
+#include "Shifr.h"
 PerestanCipher::PerestanCipher(int key)
 {
     this->k=key;
